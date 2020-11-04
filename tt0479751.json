@@ -1,0 +1,24 @@
+{
+    "movie_name": "Sivaji",
+    "director": [
+        "S. Shankar"
+    ],
+    "genere": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "bio": [
+        "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him while he tries to do good for the poor."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BYzdhMDM0NzItY2EyOC00YWMyLTgxNmMtODNhNjI1NDEzNGRkXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR4,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "RunTime": "188min"
+}

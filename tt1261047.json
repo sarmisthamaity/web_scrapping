@@ -1,0 +1,24 @@
+{
+    "movie_name": "Gulaal",
+    "director": [
+        "Anurag Kashyap"
+    ],
+    "genere": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "bio": [
+        "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BYTMxYjEwYjctMjg4Ni00N2UyLThkNDEtNTY4ODExNmIzYjE5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "140min"
+}

@@ -1,0 +1,24 @@
+{
+    "movie_name": "Mankatha",
+    "director": [
+        "Venkat Prabhu"
+    ],
+    "genere": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "bio": [
+        "A game of chase and get chased ensues after a suspended cop is betrayed by two men who helped him and another officer rob cricket betting money."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNmRjN2E2MTUtMmVkNC00MzEzLTkzODgtZTM0NzI0ZDJkM2YyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "RunTime": "155min"
+}

@@ -1,0 +1,23 @@
+{
+    "movie_name": "GullyBoy",
+    "director": [
+        "Zoya Akhtar"
+    ],
+    "genere": [
+        "Drama",
+        "Music"
+    ],
+    "bio": [
+        "A coming-of-age story based on the lives of street rappers in Mumbai."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZDkzMTQ1YTMtMWY4Ny00MzExLTkzYzEtNzZhOTczNzU2NTU1XkEyXkFqcGdeQXVyODY3NjMyMDU@._V1_UY268_CR11,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "153min"
+}

@@ -1,0 +1,23 @@
+{
+    "movie_name": "KaakkaaMuttai",
+    "director": [
+        "M. Manikandan"
+    ],
+    "genere": [
+        "Comedy",
+        "Drama"
+    ],
+    "bio": [
+        "Two slum kids want nothing more than a slice of pizza."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BM2YzNTM5NjgtZGNhMi00MjI5LWE3ZjgtOTYyODRkZWIyMGNhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Tamil"
+    ],
+    "RunTime": "91min"
+}

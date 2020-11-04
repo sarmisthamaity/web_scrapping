@@ -1,0 +1,24 @@
+{
+    "movie_name": "Manjhi:TheMountainMan",
+    "director": [
+        "Ketan Mehta"
+    ],
+    "genere": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "bio": [
+        "Using only a hammer and a chisel, a man spends twenty-two years carving a road through a treacherous mountain."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BODdlZTZlZTktNTYyZC00ODQ1LWE5MjYtYjc1YTQwODRlNzI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "120min"
+}

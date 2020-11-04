@@ -1,0 +1,26 @@
+{
+    "movie_name": "DelhiBelly",
+    "director": [
+        "Abhinay Deo",
+        "Akshat Verma"
+    ],
+    "genere": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "bio": [
+        "Three struggling room-mates unknowingly become potential prey of a ruthless gangster."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZjJmOTNjNDgtY2E3ZC00OTRmLTlmYWItNjRkMzQ4NzZlY2M2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "English",
+        "Hindi"
+    ],
+    "RunTime": "103min"
+}

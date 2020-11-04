@@ -1,0 +1,25 @@
+{
+    "movie_name": "Peepli[Live]",
+    "director": [
+        "Anusha Rizvi",
+        "Mahmood Farooqui"
+    ],
+    "genere": [
+        "Comedy",
+        "Drama"
+    ],
+    "bio": [
+        "An impoverished farmer's threat to end his life invites attention from politicians and media."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZTU4NmJkNWEtNmM0ZC00NDkyLThkZDYtZTVkNTQxMTNhOTlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "RunTime": "95min"
+}

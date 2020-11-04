@@ -1,0 +1,24 @@
+{
+    "movie_name": "GangsofWasseypur",
+    "director": [
+        "Anurag Kashyap"
+    ],
+    "genere": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "bio": [
+        "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "321min"
+}

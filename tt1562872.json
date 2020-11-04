@@ -1,0 +1,23 @@
+{
+    "movie_name": "ZindagiNaMilegiDobara",
+    "director": [
+        "Zoya Akhtar"
+    ],
+    "genere": [
+        "Comedy",
+        "Drama"
+    ],
+    "bio": [
+        "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "155min"
+}
