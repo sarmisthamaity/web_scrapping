@@ -1,0 +1,24 @@
+{
+    "movie_name": "AmarAkbarAnthony",
+    "director": [
+        "Manmohan Desai"
+    ],
+    "genere": [
+        "Action",
+        "Comedy",
+        "Drama"
+    ],
+    "bio": [
+        "Three brothers are separated and united after many years - one is brought up a Hindu, another a Muslim and the last (and most memorable) a Christian. Hilarity and adventure ensues."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNTMzNzE1YTUtYTMyOS00YWNhLWJlZWUtNDMwZjQ0MzQ3MWYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR6,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "RunTime": "184min"
+}

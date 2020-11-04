@@ -1,0 +1,25 @@
+{
+    "movie_name": "HeyRam",
+    "director": [
+        "Kamal Haasan"
+    ],
+    "genere": [
+        "Crime",
+        "Drama",
+        "History"
+    ],
+    "bio": [
+        "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country and sets out to kill him."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNTZjNGMzODItNTNkNi00MDE1LWI3Y2UtNTQ3ZTdmMjRlZjkzXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Tamil",
+        "Hindi"
+    ],
+    "RunTime": "186min"
+}

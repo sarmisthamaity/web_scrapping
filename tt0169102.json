@@ -1,0 +1,24 @@
+{
+    "movie_name": "Lagaan:OnceUponaTimeinIndia",
+    "director": [
+        "Ashutosh Gowariker"
+    ],
+    "genere": [
+        "Adventure",
+        "Drama",
+        "Musical"
+    ],
+    "bio": [
+        "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Hindi"
+    ],
+    "RunTime": "224min"
+}

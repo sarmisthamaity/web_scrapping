@@ -1,0 +1,24 @@
+{
+    "movie_name": "Thalapathi",
+    "director": [
+        "Mani Ratnam"
+    ],
+    "genere": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "bio": [
+        "An orphan named Surya raised in a slum befriends a good crime boss named Devaraj and works for him. Their existence is threatened when a new honest district collector arrives."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZGE5NzVjNTEtMGUwYi00YzU0LWIyYTctNDc0ZjMxNGNhYzg5XkEyXkFqcGdeQXVyMjMwODI3NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Tamil"
+    ],
+    "RunTime": "157min"
+}

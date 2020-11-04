@@ -1,0 +1,23 @@
+{
+    "movie_name": "Kireedam",
+    "director": [
+        "Sibi Malayil"
+    ],
+    "genere": [
+        "Action",
+        "Drama"
+    ],
+    "bio": [
+        "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNmViNWRlMzUtMTljMi00MDg5LTllNWYtMTIxNjljZjhmODQwXkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_UY268_CR6,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Malayalam"
+    ],
+    "RunTime": "124min"
+}

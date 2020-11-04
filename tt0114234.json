@@ -1,0 +1,24 @@
+{
+    "movie_name": "Rangeela",
+    "director": [
+        "Ram Gopal Varma"
+    ],
+    "genere": [
+        "Comedy",
+        "Drama",
+        "Musical"
+    ],
+    "bio": [
+        "A middle class young woman, who dreams of Bollywood fame, is caught in a love triangle between her childhood friend and a famous actor."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BNmQxOWQ5NzgtMjVkNS00NDJiLTg1NzgtY2FkY2FlNzFjYTEwXkEyXkFqcGdeQXVyMTAxNjY4MzY2._V1_UY268_CR7,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "RunTime": "142min"
+}

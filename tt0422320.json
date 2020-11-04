@@ -1,0 +1,23 @@
+{
+    "movie_name": "Ghilli",
+    "director": [
+        "Dharani"
+    ],
+    "genere": [
+        "Action",
+        "Romance"
+    ],
+    "bio": [
+        "Velu, an aspiring kabaddi player, goes to Madurai to participate in a regional match, where he rescues Dhanalakshmi from Muthupandi, a powerful man keen on marrying the girl against her will."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BY2MyOTA2MjUtZmI5Ny00MmU0LTk4ZTUtYmU1ZDA1NTBkODRjXkEyXkFqcGdeQXVyOTA3MTc1OTg@._V1_UY268_CR8,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "RunTime": "160min"
+}

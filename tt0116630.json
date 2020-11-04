@@ -1,0 +1,24 @@
+{
+    "movie_name": "Indian",
+    "director": [
+        "S. Shankar"
+    ],
+    "genere": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "bio": [
+        "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BY2QxMzQyNzQtZGQzMS00MWViLWJiYjgtNTJmMWViOWM3OTc4XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UY268_CR5,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Tamil"
+    ],
+    "RunTime": "185min"
+}

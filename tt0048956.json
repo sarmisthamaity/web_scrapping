@@ -1,0 +1,22 @@
+{
+    "movie_name": "Aparajito",
+    "director": [
+        "Satyajit Ray"
+    ],
+    "genere": [
+        "Drama"
+    ],
+    "bio": [
+        "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZGFmYTBkYmEtNTNmMi00YWExLWIyY2ItYjYzMjEyMGNjOWFmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY268_CR4,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Bengali"
+    ],
+    "RunTime": "110min"
+}

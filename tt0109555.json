@@ -1,0 +1,24 @@
+{
+    "movie_name": "Darr",
+    "director": [
+        "Yash Chopra"
+    ],
+    "genere": [
+        "Action",
+        "Drama",
+        "Romance"
+    ],
+    "bio": [
+        "A woman plans to marry a navy officer but she is also the object of another man's obsession."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BYTczYzgzNmUtZDBkOC00Mjg5LThmOWQtYjYzNjFjNzlhYmEyXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "RunTime": "178min"
+}
