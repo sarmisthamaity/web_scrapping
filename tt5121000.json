@@ -1,0 +1,23 @@
+{
+    "movie_name": "Aligarh",
+    "director": [
+        "Hansal Mehta"
+    ],
+    "genere": [
+        "Biography",
+        "Drama"
+    ],
+    "bio": [
+        "A gay, linguistic professor living in a small orthodox city must deal with the aftermath of a sting operation that puts his sexual orientation in front of the entire nation."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BZDUzYTRjMDAtNDkwMi00ZWY1LWI1OWEtM2VjY2NjNzNhOTRmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "RunTime": "114min"
+}

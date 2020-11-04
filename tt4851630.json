@@ -1,0 +1,24 @@
+{
+    "movie_name": "MaheshintePrathikaram",
+    "director": [
+        "Dileesh Pothan"
+    ],
+    "genere": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+    ],
+    "bio": [
+        "Mahesh, a studio photographer and studio owner gets into a fight and loses. He ends up taking revenge which leads to certain realizations in his life."
+    ],
+    "poster_url": [
+        "https://m.media-amazon.com/images/M/MV5BMmNlZmUwODgtN2QwOS00ZTljLTkzNTgtNGY0ODI3YjA5NDA1XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR9,0,182,268_AL__QL50.jpg"
+    ],
+    "country": [
+        "India"
+    ],
+    "language": [
+        "Malayalam"
+    ],
+    "RunTime": "120min"
+}
